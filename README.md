@@ -6,6 +6,7 @@ The goal of this project is to provide a 9 to 5 daily planner. The planner saves
 
 ## Link to webpage
 
+https://rafarizvi.github.io/rafa-daily-planner/
 
 ## Installation
 
